@@ -9,3 +9,7 @@
   2. git commit -m "..."
   3. git push origin hexo
   4. hexo g -d
+- 主题：
+  1. 已备份至百度云盘
+- 评论管理
+  1. https://leancloud.cn/dashboard/login.html#/signup
