@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single-column
 title: 关于
 ---
 
@@ -13,7 +13,7 @@ title: 关于
 
 生活中不如意十有八九，常想一二，多想想那些快乐的、美好的事。
 
-page
+page `single-column`
 
 
 
