@@ -2,7 +2,7 @@
 title: 求婚Live
 date: 2019-10-19 00:00:00
 categories: 专属天使
-tags: 
+tags: 情书
 description: 
 ---
 
@@ -26,7 +26,7 @@ description:
 
 风轻扬着你的裙摆，也将淡淡的香味送至我的鼻尖，我沉醉在这美好的时刻，仿佛忘记了时间的流淌。
 
-![](求婚Live/1.jpg)
+![](/photos/求婚Live/1.jpg)
 
 #### 2
 
@@ -62,7 +62,7 @@ description:
 
 而她，又何尝不是呢……
 
-![](求婚Live/2.jpg)
+![](/photos/求婚Live/2.jpg)
 
 #### 5
 
@@ -92,4 +92,4 @@ description:
 
 “亲爱的，生日快乐！请你嫁给我，好吗？”
 
-![](求婚Live/3.jpg)
+![](/photos/求婚Live/3.jpg)
